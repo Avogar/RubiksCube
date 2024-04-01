@@ -1,7 +1,5 @@
-Чтобы всё работало корректно у вас должна быть установлена библиотека pygame. 
+These programs are designed for those who are familiar with speedcubing (high-speed solving of a Rubik's Cube).
 
-Эти программы предназначены для тех, кто знаком со спидкубингом (скоростной сборкой Кубика Рубика). 
+According to this scramble of the cube, the program solution.py draws a scrumble of the cube and suggests the assembly according to the Friedrich method in steps.
 
-По данному скрамблу кубика программа solution.py рисует развёртку кубика и предлагает сборку по методу Фридрих по шагам.
-
-Программа timer.py представляет из себя таймер для сборки кубика. Для запуска и остановки таймера нажмите "Пробел", для удаления последней сборки нажмите "-", чтобы удалить всю сессию, нажмите "Delete".
+The program timer.py It is a timer for building a cube. To start and stop the timer, press "Space bar", to delete the last build, press "-", to delete the entire session, press "Delete".
