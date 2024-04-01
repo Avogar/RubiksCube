@@ -1321,7 +1321,7 @@ blue2 = [['С']*3 for i in range(3)]
 yellow = [['Ж']*3 for i in range(3)]
 yellow2 = [['Ж']*3 for i in range(3)]
 
-print("Введите скрамбл")
+print("Enter the scrumble:")
 scramble = input().split()
 for i in range(len(scramble)):
     moves(scramble[i])
